@@ -138,7 +138,7 @@ Follow these steps to set up and run **PralaySePhle** locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shu03bh/PralaySePhle.git
+   git clone https://github.com/sbhamita/PralaySePhle.git
    cd PralaySePhle
    ```
 
